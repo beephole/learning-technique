@@ -9,14 +9,14 @@ Start learning CODING with this Learning Technique
 
 THIS STREAMLIT APP IS FOR FUN AND EDUCATIONAL PURPOSES PLEASE TRY TO LEARN AS MUCH  CODING AS YOU CAN!
 
-A app that Creates a Memory Palace Story based on the lines of code you input !
+An app that Creates a Memory Palace Story based on the lines of code you input !
 It Automatically Generates a Memory Palace Story to help you memorize It !!
 Also you get to Download the Csv or Pdf of that table !
 
 ![images](https://github.com/beephole/learning-technique/assets/118709832/db677515-8f3d-4164-ae92-8436115df4a1)
 
 
-Hi there ! This app helps you leverage the power of the Memory Palace technique (also known as the Method of Loci) to improve your memory and learning.  !
+Hi there ! This app helps you leverage the power of the Memory Palace technique (also known as the Method of Loci) to improve your memory and learning  !
 
 The Memory Palace technique is an ancient mnemonic device that involves associating the items you want to remember with specific locations or "loci" in a mental space you are familiar with, such as your house or a well-known route. By recalling these locations, you can also recall the associated items more easily, making this an effective tool for memorizing and learning new information.
 
@@ -41,7 +41,7 @@ To use this app, you first need to have an OpenAI API key.
 2. Once you have the API key, create a file named `apikey.py` in the project directory.
 3. Add your API key to the `apikey.py` file as follows:
 ```python
-API_KEY = "your_api_key_here"
+apikey = "your_api_key_here"
 ```
 ![apikey](https://github.com/beephole/learning-technique/assets/118709832/faeac3c8-5e82-4f95-99fe-de384eab23cd)
 
