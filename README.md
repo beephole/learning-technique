@@ -2,7 +2,8 @@
 A Great Streamlit App on the learning technique based on the Memory Palace Technique , inspired by the Legendary Memory Champion Dominic O'Brien
 Start learning CODING with this Learning Technique
 
-[memory_palace_story.pdf](https://github.com/beephole/learning-technique/files/11860821/memory_palace_story.pdf)
+
+![table](https://github.com/beephole/learning-technique/assets/118709832/314ef609-b805-4a85-8b07-4ef5a4025f79)
 
 
 
